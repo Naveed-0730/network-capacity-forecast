@@ -1,5 +1,8 @@
 # Network Capacity Forecasting & Anomaly Detection
 
+**🔗 [Live dashboard](https://naveed-network-forecast.streamlit.app)** · [Architecture notes](docs/architecture.md)
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://naveed-network-forecast.streamlit.app)
 [![CI](https://github.com/Naveed-0730/network-capacity-forecast/actions/workflows/ci.yml/badge.svg)](https://github.com/Naveed-0730/network-capacity-forecast/actions/workflows/ci.yml)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
