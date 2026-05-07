@@ -7,5 +7,5 @@ duckdb>=0.10
 pyarrow>=14.0
 plotly>=5.17
 streamlit>=1.32
-pytest>=7.4
-pytest-cov>=4.1
+matplotlib>=3.7
+-e .
